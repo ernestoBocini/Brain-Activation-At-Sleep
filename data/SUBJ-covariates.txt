@@ -1,0 +1,25 @@
+"sub_id" "age" "handedness" "current_diagnosis" "lifetime_diagnosis" "type_current_diagnosis" "type_lifetime_diagnosis"
+1 57 "R" "NO" "NO" NA NA
+2 52 "R" NA NA NA NA
+3 32 "R" NA NA NA NA
+4 36 "R" NA NA NA NA
+5 22 "R" NA NA NA NA
+6 27 "R" "NO" "NO" NA NA
+7 60 "R" "NO" "YES" NA "Alcohol Abuse | Cannabis Abuse"
+8 21 "R" "YES" "YES" "Major Depressive Disorder Single Episode Unspecified | Cannabis Abuse" "Eating Disorder NOS"
+9 21 "L" "NO" "NO" NA NA
+10 30 "R" "NO" "NO" NA NA
+11 27 "A" "NO" "NO" NA NA
+12 48 "A" "NO" "NO" NA NA
+13 22 "R" "NO" "YES" NA "Major Depressive Disorder Single Episode Full Remission"
+14 19 "R" "NO" "NO" NA NA
+15 57 "R" "NO" "NO" NA NA
+16 25 "R" "NO" "NO" NA NA
+17 38 "R" "YES" "YES" "Major Depressive Disorder Recurrent In partial remission" "Alcohol Abuse"
+18 46 "R" "NO" "NO" NA NA
+19 22 "R" "NO" "YES" NA "Alcohol Abuse | Cannabis Dependence | Depressive Disorder NOS"
+20 32 "L" "YES" "YES" "Generalized Anxiety" "Alcohol Dependence unspecified"
+21 22 "R" "NO" "NO" NA NA
+22 42 "R" "YES" "YES" "Major Depressive Disorder Recurrent Mild | Social Phobia" "Alcohol Abuse | Cannabis Abuse | Cocaine Dependence | Opiod Dependence | ADHD Combined Type"
+23 31 "L" "NO" "NO" NA NA
+24 36 "R" "NO" "NO" NA NA
