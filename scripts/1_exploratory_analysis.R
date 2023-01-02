@@ -11,8 +11,6 @@ covariates$type_current_diagnosis[is.na(covariates$type_current_diagnosis)] <- "
 covariates$type_lifetime_diagnosis[is.na(covariates$type_lifetime_diagnosis)] <- "-"
 
 #export table for latex
-#rownames(covariates) <- covariates[,1]
-#covariates <- covariates[,-1]
 print(xtable(covariates, type = "latex"), file = "latex_elements/covariates.tex")
 
 # explore the data: Dynamic activity time series of each brain region for the second subject.
