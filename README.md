@@ -5,6 +5,7 @@ Developed an algorithm for ddetecting spontaneous Brain Activations for subjects
 
 The repository contains the code for the Final thesis Project of my Bachelor studies: University of Bologna, curriculum STATS & MATHS. The project is realized with the help and supervision of Prof. Christian Martin Hennig. Data and further suggestions were provided by Prof. Alessandra Luati.
 
+![](Global-Undergraduate-Awards/poster_UA.png)
 
 ### Data
 The Project is based on two fundamental datasets: `fMRI-ROI-time-series` and `SUBJ-covariates`. They are located inside the "data" folder, together with additional datasets which are created by running the code in "scripts" folder following the suggested order.
